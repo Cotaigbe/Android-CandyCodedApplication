@@ -11,8 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +63,7 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android JUnit._3_StartThePhoneActivity">
+  <component name="RunManager" selected="Android JUnit._4_ShareACandyWithAnIntent">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -107,6 +106,22 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
       <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._3_StartThePhoneActivity" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_4_ShareACandyWithAnIntent" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._4_ShareACandyWithAnIntent" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -188,6 +203,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit._4_ShareACandyWithAnIntent" />
         <item itemvalue="Android JUnit._3_StartThePhoneActivity" />
         <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
@@ -227,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601670999796</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="completed the module">
+      <created>1601671690996</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601671690996</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -235,49 +258,49 @@
     <option name="LAST_COMMIT_MESSAGE" value="completed the module" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1601222868731">
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1601671961530">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1601222868731" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1601671961530" />
     <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1601220780120">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1601220780120" />
-    <state x="208" y="0" key="CommitChangelistDialog2" timestamp="1601670998325">
+    <state x="208" y="0" key="CommitChangelistDialog2" timestamp="1601671689581">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="208" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601670998325" />
+    <state x="208" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601671689581" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1601668088935">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601668088935" />
-    <state width="1323" height="157" key="GridCell.Tab.0.bottom" timestamp="1601671668924">
+    <state width="1323" height="157" key="GridCell.Tab.0.bottom" timestamp="1601672965490">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="157" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601671668924" />
-    <state width="1323" height="157" key="GridCell.Tab.0.center" timestamp="1601671668924">
+    <state width="1323" height="157" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601672965490" />
+    <state width="1323" height="157" key="GridCell.Tab.0.center" timestamp="1601672965490">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="157" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601671668924" />
-    <state width="1323" height="157" key="GridCell.Tab.0.left" timestamp="1601671668924">
+    <state width="1323" height="157" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601672965490" />
+    <state width="1323" height="157" key="GridCell.Tab.0.left" timestamp="1601672965490">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="157" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601671668924" />
-    <state width="1323" height="157" key="GridCell.Tab.0.right" timestamp="1601671668924">
+    <state width="1323" height="157" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601672965490" />
+    <state width="1323" height="157" key="GridCell.Tab.0.right" timestamp="1601672965490">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="157" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601671668924" />
+    <state width="1323" height="157" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601672965490" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1601668102516">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601668102516" />
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1601671015611">
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1601671712332">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601671015611" />
-    <state x="480" y="299" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601671106503">
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601671712332" />
+    <state x="480" y="299" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601671700044">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="480" y="299" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1601671106503" />
+    <state x="480" y="299" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1601671700044" />
   </component>
 </project>
